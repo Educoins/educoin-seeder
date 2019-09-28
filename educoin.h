@@ -1,5 +1,6 @@
-#ifndef _BITCOIN_H_
-#define _BITCOIN_H_ 1
+// Copyright (c) 2019 The EduCoin developers
+#ifndef _EDUCOIN_H_
+#define _EDUCOIN_H_ 1
 
 #include "protocol.h"
 
